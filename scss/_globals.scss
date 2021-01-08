@@ -118,13 +118,13 @@ body {
 
   &__footer {
     display: flex;
-    justify-content: space-around;
-    padding: 0 4.5rem;
+    justify-content: space-between;
+    padding: 0 3rem 1.5rem 3rem;
   }
 
   &__info {
     flex: 1;
-    margin: 1.5rem;
+    margin: 1.5rem 2.5rem 1.5rem 2.5rem;
 
     h3 {
       margin: 1rem 0 0.5rem 0;
