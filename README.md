@@ -29,11 +29,11 @@ Dark gray: hsl(0, 0%, 59%)
 
 ### Typography
 
-### Body Copy
+#### Body Copy
 
 - Font size (name and stats): 18px
 
-### Font
+#### Font
 
 - Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
 - Weights: 400, 700
