@@ -155,10 +155,12 @@ body::after {
 
 .card__info h3 {
   margin: 1rem 0;
+  color: #2d3248;
 }
 
 .card__info p {
   color: #6a6f81;
   font-weight: 400;
+  font-size: 1rem;
 }
 /*# sourceMappingURL=style.css.map */
