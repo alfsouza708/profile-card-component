@@ -143,7 +143,7 @@ body::after {
   display: flex;
   -ms-flex-pack: distribute;
       justify-content: space-around;
-  padding: 0 3rem;
+  padding: 0 4.5rem;
 }
 
 .card__info {
@@ -154,7 +154,7 @@ body::after {
 }
 
 .card__info h3 {
-  margin: 1rem 0;
+  margin: 1rem 0 0.5rem 0;
   color: #2d3248;
 }
 
